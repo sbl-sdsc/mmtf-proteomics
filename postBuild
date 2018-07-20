@@ -13,3 +13,7 @@ cd /tmp && tar -xvzf /tmp/spark.tgz
 SPARK_HOME=/tmp/spark-$SPARK_VERSION-bin-hadoop$HADOOP_VERSION
 export PATH=$SPARK_HOME/bin:$PATH
 export PYTHONPATH=$SPARK_HOME/python:$PYTHONPATH
+
+git clone https://github.com/sbl-sdsc/mmtf-proteomics.git
+cd ./mmtf-proteomics
+mvn verify
