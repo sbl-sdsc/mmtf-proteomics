@@ -15,5 +15,5 @@ dependencies:
   - py4j=0.10.7
   - python-dateutil
   - pip:
-      - mmtfPyspark=0.2.6
+      - mmtfPyspark==0.2.6
       - py3Dmol==0.7.2
