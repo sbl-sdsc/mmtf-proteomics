@@ -1,2 +1,3 @@
 openjdk-8-jre-headless
 ca-certificates-java
+maven
