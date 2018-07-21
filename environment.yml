@@ -13,8 +13,6 @@ dependencies:
   - nose
   - ipywidgets=7.2.1
   - seaborn=0.8.1
-  - pyspark=2.3.1
-  - py4j=0.10.7
   - python-dateutil
   - pip:
       - mmtfPyspark==0.2.6
