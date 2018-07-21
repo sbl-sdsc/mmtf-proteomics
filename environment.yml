@@ -16,4 +16,3 @@ dependencies:
   - python-dateutil
   - pip:
       - mmtfPyspark==0.2.6
-      - py3Dmol==0.7.2
