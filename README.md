@@ -1,5 +1,5 @@
 # mmtf-proteomics
-Under construction: Methods for mapping proteomics data onto 3D protein structure.
+Methods for mapping proteomics data onto 3D protein structure.
 
 A few example Jupyter Notebooks are available for testing and feedback.
 
@@ -13,6 +13,6 @@ Launching the Binder server may take a few minutes. [Binder (beta)](https://mybi
 
 Then navigate to the mmtf_proteomics/analysis directory and launch any of the notebooks.
 
-Please send feedback or feature requests](https://github.com/sbl-sdsc/mmtf-proteomics/issues).
+Please send [feedback or feature requests](https://github.com/sbl-sdsc/mmtf-proteomics/issues).
 
 Interested in a collaboration? Please send us interesting proteomics or PTM datasets to map onto 3D structure.
