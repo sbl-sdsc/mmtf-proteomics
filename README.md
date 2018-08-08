@@ -9,7 +9,7 @@ A few example Jupyter Notebooks are available for testing and feedback.
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/sbl-sdsc/mmtf-proteomics/master) to run life Jupter Notebooks in your web browser without software installation.
 
-Launching the Binder server may take a few minutes. [Binder (beta)](https://mybinder.org/) is an experimental platform for reproducible research, so it may not always work.
+Launching the Binder server may take a few minutes. [Binder (beta)](https://mybinder.org/) is an experimental platform for reproducible research (The Binder servers can be slow, may run out of memory, or may not always work).
 
 Then navigate to the mmtf_proteomics/analysis directory and launch any of the notebooks.
 
