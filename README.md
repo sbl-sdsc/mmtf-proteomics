@@ -3,9 +3,9 @@ Methods for mapping proteomics data onto 3D protein structure.
 
 A few example Jupyter Notebooks are available for testing and feedback.
 
-* [S_sulphenylationTo3DStructure.ipynb](https://nbviewer.jupyter.org/github/sbl-sdsc/mmtf-proteomics/blob/master/mmtf_proteomics/analysis/S_sulphenylationTo3DStructure.ipynb): Map S-sulphenylation data to 3D structure
-* [QueryDbPTM.ipynb](https://nbviewer.jupyter.org/github/sbl-sdsc/mmtf-proteomics/blob/master/mmtf_proteomics/analysis/QueryDbPTM.ipynb): Query the dbPTM database by UniProt Id, UniProt Name, or PDB/Chain Id  and map PTMs to 3D structure
-* [BrowseDbPTM.ipynb](https://nbviewer.jupyter.org/github/sbl-sdsc/mmtf-proteomics/blob/master/mmtf_proteomics/analysis/BrowseDbPTM.ipynb): Browse dbPTM database by PTM type and map to 3D structure
+* [S_sulphenylationTo3DStructure.ipynb](https://mybinder.org/v2/gh/sbl-sdsc/mmtf-proteomics/master?filepath=mmtf_proteomics%2Fanalysis%2FS_sulphenylationTo3DStructure.ipynb): Map S-sulphenylation data to 3D structure
+* [QueryDbPTM.ipynb]((https://mybinder.org/v2/gh/sbl-sdsc/mmtf-proteomics/master?filepath=mmtf_proteomics%2Fanalysis%2FQueryDbPTM.ipynb): Query the dbPTM database by UniProt Id, UniProt Name, or PDB/Chain Id  and map PTMs to 3D structure
+* [BrowseDbPTM.ipynb](https://mybinder.org/v2/gh/sbl-sdsc/mmtf-proteomics/master?filepath=mmtf_proteomics%2Fanalysis%2FBrowseDbPTM.ipynb): Browse dbPTM database by PTM type and map to 3D structure
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/sbl-sdsc/mmtf-proteomics/master) to run life Jupter Notebooks in your web browser without software installation.
 
