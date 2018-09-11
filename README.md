@@ -8,11 +8,16 @@ A few example Jupyter Notebooks are available for testing and feedback.
 * [QueryDbPTM.ipynb](https://mybinder.org/v2/gh/sbl-sdsc/mmtf-proteomics/master?filepath=mmtf_proteomics%2Fanalysis%2FQueryDbPTM.ipynb): Query the dbPTM database by UniProt Id, UniProt Name, or PDB/Chain Id  and map PTMs to 3D structure
 * [BrowseDbPTM.ipynb](https://mybinder.org/v2/gh/sbl-sdsc/mmtf-proteomics/master?filepath=mmtf_proteomics%2Fanalysis%2FBrowseDbPTM.ipynb): Browse dbPTM database by PTM type and map to 3D structure
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/sbl-sdsc/mmtf-proteomics/master) to run life Jupter Notebooks in your web browser without software installation.
+## Instructions how to use the Jupyter Notebooks
+These Jupyter notebooks run in your web browser without software installation using [Binder (beta)](https://mybinder.org/), an experimental platform for reproducible research (The Binder servers can be slow or may fail).
 
-Launching the Binder server may take a few minutes. [Binder (beta)](https://mybinder.org/) is an experimental platform for reproducible research (The Binder servers can be slow, may run out of memory, or may not always work).
+After you click on a notebook link above, you see a spinning Binder logo. Wait until the notebook launches (this may take a few minutes).
 
-Then navigate to the mmtf_proteomics/analysis directory and launch any of the notebooks.
+When the notebook has launched, click the ">>" button and then choose: "Restart and Run All Cells". Wait until the notebook runs to the end (this may also take a few minutes). Then you can view PTMs mapped onto 3D structures at the bottom of the notebook.
+
+Use the slider to browse through the structures.
+
+Hold down the left mouse button and move the mouse to rotate a structure.
 
 Please send [feedback or feature requests](https://github.com/sbl-sdsc/mmtf-proteomics/issues).
 
