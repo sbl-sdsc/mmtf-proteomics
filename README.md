@@ -4,14 +4,13 @@ Methods for mapping proteomics data onto 3D protein structure.
 A few example Jupyter Notebooks are available for testing and feedback.
 
 * Cysteine Oxidation
-    * [CysOxydationTo3DStructure.ipynb](https://mybinder.org/v2/gh/sbl-sdsc/mmtf-proteomics/master?filepath=mmtf_proteomics%2Fanalysis%2FCysOxydationTo3DStructure.ipynb): Map S-Sulphenylation and S-Sulfinylations in A549 and HeLa cell lines to 3D structure
-    * [CysOxydationProteomicAndStructuralEvidence.ipynb](https://mybinder.org/v2/gh/sbl-sdsc/mmtf-proteomics/master?filepath=mmtf_proteomics%2Fanalysis%2FCysOxydationProteomicAndStructuralEvidence.ipynb) Same study as above with examples of 3D structural evidence
+    * [CysOxidationTo3DStructure.ipynb](https://mybinder.org/v2/gh/sbl-sdsc/mmtf-proteomics/master?filepath=mmtf_proteomics%2Fanalysis%2FCysOxidationTo3DStructure.ipynb): Map S-Sulphenylation and S-Sulfinylations in A549 and HeLa cell lines to 3D structure
+    * [CysOxidationProteomicAndStructuralEvidence.ipynb](https://mybinder.org/v2/gh/sbl-sdsc/mmtf-proteomics/master?filepath=mmtf_proteomics%2Fanalysis%2FCysOxidationProteomicAndStructuralEvidence.ipynb) Same study as above with examples of 3D structural evidence
+    * [CysOxidationInPDB.ipynb]((https://mybinder.org/v2/gh/sbl-sdsc/mmtf-proteomics/master?filepath=mmtf_proteomics%2Fanalysis%2FCysOxidationInPDB.ipynb) Table and 3D visualization of Cysteine oxidative PTMs found in 3D protein structure of the PDB
     * [S_sulphenylationTo3DStructure.ipynb](https://mybinder.org/v2/gh/sbl-sdsc/mmtf-proteomics/master?filepath=mmtf_proteomics%2Fanalysis%2FS_sulphenylationTo3DStructure.ipynb): Map S-sulphenylation data to 3D structure
 
 * Post-translational Modifications from dbPTM
     * [QueryDbPTM.ipynb](https://mybinder.org/v2/gh/sbl-sdsc/mmtf-proteomics/master?filepath=mmtf_proteomics%2Fanalysis%2FQueryDbPTM.ipynb): Query the dbPTM database by UniProt Id, UniProt Name, or PDB/Chain Id  and map PTMs to 3D structure
-
-* Post-translational Modification in the Protein Data Bank (PDB)
     * [BrowseDbPTM.ipynb](https://mybinder.org/v2/gh/sbl-sdsc/mmtf-proteomics/master?filepath=mmtf_proteomics%2Fanalysis%2FBrowseDbPTM.ipynb): Browse dbPTM database by PTM type and map to 3D structure
 
 ## Instructions how to use the Jupyter Notebooks
