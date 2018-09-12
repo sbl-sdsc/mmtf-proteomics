@@ -11,10 +11,10 @@ A few example Jupyter Notebooks are available for testing and feedback.
 
 * Post-translational Modifications from dbPTM
     * [QueryDbPTM.ipynb](https://mybinder.org/v2/gh/sbl-sdsc/mmtf-proteomics/master?filepath=mmtf_proteomics%2Fanalysis%2FQueryDbPTM.ipynb) Query the dbPTM database by UniProt Id, UniProt Name, or PDB/Chain Id  and map PTMs to 3D structure
-    * [BrowseDbPTM.ipynb](https://mybinder.org/v2/gh/sbl-sdsc/mmtf-proteomics/master?filepath=mmtf_proteomics%2Fanalysis%2FBrowseDbPtm.ipynb) Browse dbPTM database by PTM type and map to 3D structure
+    * [BrowseDbPTM.ipynb](https://mybinder.org/v2/gh/sbl-sdsc/mmtf-proteomics/master?filepath=mmtf_proteomics%2Fanalysis%2FBrowseDbPTM.ipynb) Browse dbPTM database by PTM type and map to 3D structure
 
 * Post-translational Modifications from PDB
-    * [QueryPdbPtm.ipynb](https://mybinder.org/v2/gh/sbl-sdsc/mmtf-proteomics/master?filepath=mmtf_proteomics%2Fanalysis%2FQueryPdbPTM.ipynb) Query PTMs in the PDB by PTM type and map to 3D structure
+    * [QueryPdbPtm.ipynb](https://mybinder.org/v2/gh/sbl-sdsc/mmtf-proteomics/master?filepath=mmtf_proteomics%2Fanalysis%2FQueryPdbPtm.ipynb) Query PTMs in the PDB by PTM type and map to 3D structure
 ## Instructions how to use the Jupyter Notebooks
 k
 These Jupyter notebooks run in your web browser without software installation using [Binder (beta)](https://mybinder.org/), an experimental platform for reproducible research (The Binder servers can be slow or may fail).
