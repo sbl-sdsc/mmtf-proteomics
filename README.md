@@ -27,9 +27,15 @@ Use the slider to browse through the structures.
 
 Hold down the left mouse button and move the mouse to rotate a structure.
 
-Please send [feedback or feature requests](https://github.com/sbl-sdsc/mmtf-proteomics/issues).
-
-Interested in a collaboration? Please send us interesting proteomics or PTM datasets to map onto 3D structure.
+# How can I get involved in this project?
+* Share proteomics data sets for 3D structure maping and analysis
+* Collaborate with us on a reproducible proteomics analysis
+* Submit [feature requests](https://github.com/sbl-sdsc/mmtf-proteomics/issues)
+* Clone and use the project and [report any issues](https://github.com/sbl-sdsc/mmtf-proteomics/issues)
+* Fork the project and submit a pull request with new features or bug fixes
+(https://github.com/sbl-sdsc/mmtf-proteomics/issues)
+* Use the project and present a talk at a lab meeting or conference
+* Share your experiences on social media
 
 # How to Cite this Work
 
