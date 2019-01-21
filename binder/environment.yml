@@ -1,9 +1,5 @@
 name: mmtf-proteomics 
 
-channels: 
-  - anaconda
-  - conda-forge
-
 dependencies:
   - python>=3.6
   - openjdk==8.0.152
