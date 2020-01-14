@@ -13,22 +13,20 @@ A few example Jupyter Notebooks are available for testing and feedback.
     * [QueryDbPTM.ipynb](https://mybinder.org/v2/gh/sbl-sdsc/mmtf-proteomics/master?filepath=notebooks%2Fanalysis%2FQueryDbPTM.ipynb) Query the dbPTM database by UniProt Id, UniProt Name, or PDB/Chain Id  and map PTMs to 3D structure
     * [BrowseDbPTM.ipynb](https://mybinder.org/v2/gh/sbl-sdsc/mmtf-proteomics/master?filepath=notebooks%2Fanalysis%2FBrowseDbPTM.ipynb) Browse dbPTM database by PTM type and map to 3D structure
 
-* Post-translational Modifications from PTMsiDB
+* Post-translational Modifications from PTMsigDB
     * [PTMsigDbTo3DStructure.ipynb](https://mybinder.org/v2/gh/sbl-sdsc/mmtf-proteomics/master?filepath=notebooks%2Fanalysis%2FPTMsigDbTo3DStructure.ipynb) Map annotated phosphorylation signatures in PTMsigDB to the 3D structure
     
 * Post-translational Modifications from PDB
     * [QueryPdbPTM.ipynb](https://mybinder.org/v2/gh/sbl-sdsc/mmtf-proteomics/master?filepath=notebooks%2Fanalysis%2FQueryPdbPTM.ipynb) Query PTMs in the PDB by PTM type and map to 3D structure
-## Instructions how to use the Jupyter Notebooks
 
-These Jupyter notebooks run in your web browser without software installation using [Binder (beta)](https://mybinder.org/), an experimental platform for reproducible research (The Binder servers can be slow or may fail).
+## Run notebooks on CyVerse/VICE
+The [VICE (Visual Interactive Computing Environment)](https://cyverse-visual-interactive-computing-environment.readthedocs-hosted.com/en/latest/index.html) in the [CyVerse Discovery Environment](https://www.cyverse.org/discovery-environment) enables users to run Jupyter Lab in a production environment. To use VICE, sign up for a free [CyVerse account](https://www.cyverse.org/create-account). 
 
-After you click on a notebook link above, you see a spinning Binder logo. Wait until the notebook launches (this may take a few minutes).
+The VICE environment supports large-scale analyses. Users can upload and download files, and save and share results of their analyses in their user accounts (up to 100GB of data). 
 
-When the notebook has launched, click the ">>" button and then choose: "Restart and Run All Cells". Wait until the notebook runs to the end (this may also take a few minutes). Then you can view PTMs mapped onto 3D structures at the bottom of the notebook.
+[![Vice](docs/vice_badge.png)](https://de.cyverse.org/de/?type=apps&app-id=00d83c10-9b9a-11e9-8421-008cfa5ae621&system-id=de)
 
-Use the slider to browse through the structures.
-
-Hold down the left mouse button and move the mouse to rotate a structure.
+[Follow these step to run Jupyter Lab on VICE](docs/vice_instructions.md) 
 
 # How can I get involved in this project?
 * Share proteomics data sets for 3D structure mapping and analysis
