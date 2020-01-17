@@ -40,6 +40,7 @@ ENV OMP_NUM_THREADS=1
 RUN git clone https://github.com/sbl-sdsc/mmtf-proteomics 
 
 COPY entry.sh /bin
-RUN mkdir /home/jovyan/.irods
+# .irods seems to exist already
+# RUN mkdir /home/jovyan/.irods
 
 ENTRYPOINT ["/bin/entry.sh"]
