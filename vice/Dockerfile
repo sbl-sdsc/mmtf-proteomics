@@ -1,4 +1,4 @@
-FROM discoenv/jupyter-lab:beta
+FROM cyversevice/jupyterlab-base:1.0.9 
 
 USER root
 
