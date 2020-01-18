@@ -3,7 +3,7 @@ name: mmtf-proteomics
 dependencies:
   - python>=3.6
   - openjdk==8.0.152
-  - pyspark==2.3.2
+  - pyspark==2.4.0
   - biopython==1.72
   - pip
   - pip:
