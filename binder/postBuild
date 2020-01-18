@@ -1,13 +1,2 @@
 #!/bin/bash
-jupyter contrib nbextension install --user
-jupyter nbextension enable codefolding/main
-jupyter trust ./mmtf_proteomics/analysis/CysOxidationTo3DStructure.ipynb
-jupyter trust ./mmtf_proteomics/analysis/CysOxidationProteomicAndStructuralEvidence.ipynb
-jupyter trust ./mmtf_proteomics/analysis/CysOxidationInPDB.ipynb
-jupyter trust ./mmtf_proteomics/analysis/BrowseDbPTM.ipynb
-jupyter trust ./mmtf_proteomics/analysis/QueryDbPTM.ipynb
-jupyter trust ./mmtf_proteomics/analysis/QueryPdbPTM.ipynb
-jupyter trust ./mmtf_proteomics/analysis/S_sulphenylationTo3DStructure.ipynb
-jupyter labextension install jupyterlab_3dmol
-jupyter labextension install @jupyter-widgets/jupyterlab-manager
-jupyter lab build
+jupyter labextension install jupyterlab_3dmol @jupyter-widgets/jupyterlab-manager 
